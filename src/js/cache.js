@@ -54,10 +54,6 @@ var handleCacheUpdateready = function() {
 
     appCache.swapCache();
 
-    // if (confirm('Existe uma nova versão para este site, deseja atualizar?')) {
-    //   window.location.reload(); // refresh page to apply new updates
-    // }
-
     new Notification('Novidades!', {
         body: 'Um novo vídeo foi adicionado, atualize a página para visualiza-lo :)',
         icon: 'assets/image/icon.png'
