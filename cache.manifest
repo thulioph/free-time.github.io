@@ -1,0 +1,23 @@
+CACHE MANIFEST
+#Versão 0000001
+
+
+CACHE:
+assets/css/main.css
+
+assets/js/main.js
+
+assets/image/arrow-hover.png
+assets/image/bg-intro.jpg
+assets/image/icon.png
+assets/image/intro-page.jpeg
+assets/image/logo-metas.png
+assets/image/logo-open-graph.png
+assets/image/palestrante-default.jpg
+
+
+NETWORK:
+*
+
+
+FALLBACK:
